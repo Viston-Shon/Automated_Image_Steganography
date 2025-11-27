@@ -4,9 +4,10 @@ It is a comprehensive automated steganography suite designed for bulk data hidin
 
 ---
 ## ✨ Contributors  
-@Viston-Shon
-@leema16
-@lahari-i
+[@Viston-Shon](https://github.com/Viston-Shon)  
+[@leema16](https://github.com/leema16)    
+[@lahari-i](https://github.com/lahari-i)
+
     
 ---  
 
